@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Gonzalo del Campo </h1>
 
 # 💫 About Me:
-I began my professional career as an accounting assistant. I currently study and practice small projects in the area of ​​web development.<br>
-I am a curious person, who likes to solve problems. Learning is part of my daily life and challenges motivate me to find the best solutions.<br>
-I am looking for opportunities to do internships in the area of ​​Information Technology, where I can develop my technical knowledge, grow with the company and my colleagues.
+I began my professional career as an accounting assistant. Currently, I am immersed in the study and practice of small projects in the area of ​​web development.<br> I am a curious person who is passionate about solving problems. Learning is a fundamental part of my daily life, and challenges are my greatest motivation to find the best solutions.<br> I am looking for opportunities to do internships in the area of ​​Information Technology, where I can demonstrate my technical knowledge, grow with the company and my colleagues.
 
 # 💫 Acerca de mí:
-Comence mi trayectoria profesional como asistente contable. Actualmente estudio y practico pequeños proyectos en el área de desarrollo web.<br>Soy una persona curiosa, la cual le gusta resolver problemas. Aprender hace parte de mi día a día y los desafíos me motivan a encontrar las mejores soluciones.<br>Busco oportunidades para hacer practicas en el área de Tecnologías de la información, donde pueda desarrollar mis conocimientos técnicos, crecer junto a la empresa y mis compañeros.
+Comencé mi trayectoria profesional como asistente contable. Actualmente, estoy inmerso en el estudio y la práctica de pequeños proyectos en el área de desarrollo web.<br>Soy una persona curiosa a la que le apasiona resolver problemas. El aprendizaje forma parte fundamental de mi día a día, y los desafíos son mi mayor motivación para encontrar las mejores soluciones.<br> Me encuentro en busca de oportunidades para realizar prácticas en el área de Tecnologías de la Información, donde pueda demostrar mis conocimientos técnicos, crecer junto a la empresa y mis compañeros.
 
 
 
