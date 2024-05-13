@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Gonzalo del Campo </h1>
 
 # 💫 About Me:
-I began my professional career as an accounting assistant. I currently study and practice small projects in the area of ​​web development.
-I am a curious person, who likes to solve problems. Learning is part of my daily life and challenges motivate me to find the best solutions.
+I began my professional career as an accounting assistant. I currently study and practice small projects in the area of ​​web development.<br>
+I am a curious person, who likes to solve problems. Learning is part of my daily life and challenges motivate me to find the best solutions.<br>
 I am looking for opportunities to do internships in the area of ​​Information Technology, where I can develop my technical knowledge, grow with the company and my colleagues.
 
 # 💫 Acerca de mí:
-Comence mi trayectoria profecial como asistente contable. Actualmente estudio y practico pequeños proyectos en el área de desarrollo web.<br>Soy una persona curiosa, la cual le gusta resolver problemas. Aprender hace parte de mi día a día y los desafíos me motivan a encontrar las mejores soluciones.<br>Busco oportunidades para hacer practicas en el área de Tecnologías de la información, donde pueda desarrollar mis conocimientos técnicos, crecer junto a la empresa y mis compañeros.
+Comence mi trayectoria profesional como asistente contable. Actualmente estudio y practico pequeños proyectos en el área de desarrollo web.<br>Soy una persona curiosa, la cual le gusta resolver problemas. Aprender hace parte de mi día a día y los desafíos me motivan a encontrar las mejores soluciones.<br>Busco oportunidades para hacer practicas en el área de Tecnologías de la información, donde pueda desarrollar mis conocimientos técnicos, crecer junto a la empresa y mis compañeros.
 
 
 
